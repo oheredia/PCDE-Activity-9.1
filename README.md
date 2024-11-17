@@ -1,1 +1,1 @@
-This is my repository for activity 9.1 MIT Data Engineering
+Repository for Activities 9.1 and 9.2
